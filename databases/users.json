@@ -1,0 +1,30 @@
+{
+  "existential": {
+    "friends": [],
+    "password": "password123",
+    "servers": [
+      "Robotics"
+    ],
+    "username": "existential"
+  },
+  "github11200": {
+    "friends": [],
+    "password": "password123",
+    "servers": [
+      "Robotics"
+    ],
+    "username": "github11200"
+  },
+  "nimifish": {
+    "friends": [
+      "aperson"
+    ],
+    "password": "password123",
+    "servers": [
+      "Robotics",
+      "Swimming",
+      "coolies"
+    ],
+    "username": "nimifish"
+  }
+}
